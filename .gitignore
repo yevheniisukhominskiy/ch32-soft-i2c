@@ -1,0 +1,10 @@
+# Ignore everything
+/*
+
+# Unignore the necessary files
+!/lib/
+!/examples/
+!/images/
+!/LICENSE
+!/README.md
+!/.gitignore
