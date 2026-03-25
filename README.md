@@ -1,3 +1,9 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version">
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/yevheniisukhominskiy/ch32-soft-i2c?style=for-the-badge">
+     <img src="https://img.shields.io/github/license/yevheniisukhominskiy/ch32-soft-i2c?style=for-the-badge" alt="License">
+</p>
+
 # ch32-soft-i2c
 
 Легка програмна (Software) I2C бібліотека для мікроконтролерів CH32V00X.
